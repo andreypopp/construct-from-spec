@@ -1,6 +1,6 @@
 {
   "name": "construct-from-spec",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Construct JavaScript objects from specifications",
   "main": "index.js",
   "scripts": {
